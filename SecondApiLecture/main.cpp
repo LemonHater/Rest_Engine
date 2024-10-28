@@ -5,7 +5,6 @@
 #include "SecondApiLecture.h"
 
 #define MAX_LOADSTRING 100
-int A_b;
 
 // 전역 변수:
 HINSTANCE hInst;                                // 현재 인스턴스입니다.
